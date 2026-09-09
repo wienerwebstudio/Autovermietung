@@ -48,3 +48,16 @@ Stil-Vorgabe: Sportwagen-Silhouette, die in einen Autoschlüssel übergeht, Gelb
 
 1. Favoriten auswählen (1–2 Stück).
 2. Auf Wunsch: animiertes Outro (Logo-Reveal, 3–5 s) über Higgsfield Video.
+
+## Finale Dateien: Logo 16 (`final-crs-16/`)
+
+| Datei | Beschreibung |
+|-------|--------------|
+| `CRS-Logo.png` / `.jpg` | 2048×2048, schwarzer Hintergrund – Profilbild |
+| `CRS-Logo-4K.png` / `.jpg` | 4096×4096, KI-hochskaliert – Druck, große Banner |
+| `CRS-Logo-transparent.png` | 2048×2048 mit transparentem Hintergrund – für helle/andere Untergründe |
+| `CRS-Logo.svg` | Vektor-Tracing des Logos (Verläufe als feine Farbstufen) – skalierbar |
+| `CRS-Outro-Frame-1920x1080.png` | Standbild 16:9 für Video-Endcards |
+| `CRS-Outro-B-seedance-reveal.mp4` | **Empfehlung** – 5 s Logo-Reveal von Schwarz: Lichtspur zeichnet das Auto, Schlüssel rastet ein, CRS knallt rein, Tagline blendet ein. H.264 1080p mit Sound |
+| `CRS-Outro-B-seedance-hevc-original.mp4` | gleiches Video als HEVC-Original (kleiner, 10-bit) |
+| `CRS-Outro-A-kling-glow.mp4` | 5 s Alternativ-Outro: Logo steht, Lichtsweep über Chrom, Neon-Glühen, Funken, leichter Zoom. H.264 1080p mit Sound |
