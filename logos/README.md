@@ -61,3 +61,12 @@ Stil-Vorgabe: Sportwagen-Silhouette, die in einen Autoschlüssel übergeht, Gelb
 | `CRS-Outro-B-seedance-reveal.mp4` | **Empfehlung** – 5 s Logo-Reveal von Schwarz: Lichtspur zeichnet das Auto, Schlüssel rastet ein, CRS knallt rein, Tagline blendet ein. H.264 1080p mit Sound |
 | `CRS-Outro-B-seedance-hevc-original.mp4` | gleiches Video als HEVC-Original (kleiner, 10-bit) |
 | `CRS-Outro-A-kling-glow.mp4` | 5 s Alternativ-Outro: Logo steht, Lichtsweep über Chrom, Neon-Glühen, Funken, leichter Zoom. H.264 1080p mit Sound |
+
+### Hochformat 9:16 (Reels, TikTok, Shorts, Stories)
+
+| Datei | Beschreibung |
+|-------|--------------|
+| `CRS-Outro-Frame-1080x1920.png` | Standbild 9:16 für Endcards |
+| `CRS-Outro-B-seedance-reveal-9x16.mp4` | **Empfehlung** – 5 s Logo-Reveal im Hochformat, H.264 1080×1920 mit Sound |
+| `CRS-Outro-B-seedance-reveal-9x16-hevc-original.mp4` | gleiches Video als HEVC-Original |
+| `CRS-Outro-A-kling-glow-9x16.mp4` | 5 s Glow-Outro im Hochformat, H.264 1080×1920 mit Sound |
