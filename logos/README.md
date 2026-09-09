@@ -1,7 +1,18 @@
-# Logo-Samples Autovermietung
+# Logo-Samples – CRS Car Rental Service
 
-6 Logo-Entwürfe, erstellt mit Higgsfield (Recraft V4.1 Vector + Nano Banana Pro).
-Wortmarke ist vorerst der Platzhalter **AUTOVERMIETUNG** – wird gegen den echten Firmennamen getauscht, sobald er feststeht.
+11 Logo-Entwürfe, erstellt mit Higgsfield (Recraft V4.1 Vector + Nano Banana Pro).
+
+## Runde 2: CRS – Car Rental Service (07–11)
+
+| Nr. | Datei | Stil / Farben | Einsatz |
+|-----|-------|---------------|---------|
+| 07 | `07-crs-monogram-navy-gold` | Fettes CRS-Monogramm, Auto im „C“, Navy + Gold | Profilbild, Outro auf Weiß |
+| 08 | `08-crs-hexagon-speed-red-black` | Schwarze Plakette, kursives CRS mit roten Speedlines | Profilbild, Outro auf Weiß |
+| 09 | `09-crs-round-badge-blue` | Rundes Badge, CRS + Schlüssel, „CAR RENTAL SERVICE · WIEN“ | Rundes Profilbild, Outro auf Blau |
+| 10 | `10-crs-luxury-monogram-black-gold` | Verschlungenes Serifen-Monogramm im Doppelkreis, Schwarz/Gold | Profilbild, Outro auf Schwarz |
+| 11 | `11-crs-road-letters-slate-orange` | CRS mit Straße durch die Buchstaben, oranges Auto | Profilbild, Outro auf Weiß |
+
+## Runde 1: Platzhalter-Wortmarke „AUTOVERMIETUNG“ (01–06)
 
 | Nr. | Datei | Stil / Farben | Einsatz |
 |-----|-------|---------------|---------|
@@ -15,12 +26,12 @@ Wortmarke ist vorerst der Platzhalter **AUTOVERMIETUNG** – wird gegen den echt
 ## Formate
 
 - `*.png` – 2048×2048, quadratisch → Profilbild (YouTube, Instagram, TikTok, Google Business)
-- `*.svg` – Vektor, verlustfrei skalierbar (nur 01–03, Recraft-Vektorausgabe)
+- `*.svg` – Vektor, verlustfrei skalierbar (01–03 und 07–09, Recraft-Vektorausgabe)
 - `outro-16x9/*-outro.png` – 1920×1080, Logo zentriert auf passender Hintergrundfarbe → Video-Outro / Endcard
-- `overview.png` – Übersicht aller 6 Entwürfe
+- `overview-crs.png` – Übersicht der 5 CRS-Entwürfe
+- `overview.png` – Übersicht der 6 Platzhalter-Entwürfe
 
 ## Nächste Schritte
 
 1. Favoriten auswählen (1–2 Stück).
-2. Echten Firmennamen + Claim liefern → Wortmarke neu generieren.
-3. Auf Wunsch: animiertes Outro (Logo-Reveal, 3–5 s) über Higgsfield Video.
+2. Auf Wunsch: animiertes Outro (Logo-Reveal, 3–5 s) über Higgsfield Video.
