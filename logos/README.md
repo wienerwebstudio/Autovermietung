@@ -1,6 +1,18 @@
 # Logo-Samples – CRS Car Rental Service
 
-11 Logo-Entwürfe, erstellt mit Higgsfield (Recraft V4.1 Vector + Nano Banana Pro).
+16 Logo-Entwürfe, erstellt mit Higgsfield (Recraft V4.1 Vector + Nano Banana Pro).
+
+## Runde 3: Sportlicher Stil nach Vorlage (12–16)
+
+Stil-Vorgabe: Sportwagen-Silhouette, die in einen Autoschlüssel übergeht, Gelb-Orange-Rot-Verlauf auf Schwarz, Chrom-Schrift.
+
+| Nr. | Datei | Stil / Farben | Einsatz |
+|-----|-------|---------------|---------|
+| 12 | `12-crs-fire-car-key-chrome` | Flammen-Sportwagen geht in Chrom-Schlüssel über, roter Swoosh, „CR“ orange + „S“ chrom | Profilbild, Outro auf Schwarz |
+| 13 | `13-crs-electric-blue-chrome` | Gleiche Idee in Elektro-Blau/Cyan mit Funkschlüssel, Chrom-Schrift | Profilbild, Outro auf Schwarz |
+| 14 | `14-crs-key-as-s-fire` | Riesige Feuer-Buchstaben, der Schlüssel ist ins „S“ integriert, silberne Auto-Linie darüber | Profilbild, Outro auf Schwarz |
+| 15 | `15-crs-front-view-wings-red` | Auto-Frontansicht mit Speed-Flügeln, Schlüssel diagonal, rotes Balken-Tagline | Profilbild, Outro auf Schwarz |
+| 16 | `16-crs-swoosh-key-recraft` | Am nächsten an der Vorlage: Linien-Silhouette + Schlüssel, „CR“ gelb-weiß, „S“ chrom | Profilbild, Outro auf Schwarz |
 
 ## Runde 2: CRS – Car Rental Service (07–11)
 
@@ -28,7 +40,8 @@
 - `*.png` – 2048×2048, quadratisch → Profilbild (YouTube, Instagram, TikTok, Google Business)
 - `*.svg` – Vektor, verlustfrei skalierbar (01–03 und 07–09, Recraft-Vektorausgabe)
 - `outro-16x9/*-outro.png` – 1920×1080, Logo zentriert auf passender Hintergrundfarbe → Video-Outro / Endcard
-- `overview-crs.png` – Übersicht der 5 CRS-Entwürfe
+- `overview-crs-sport.png` – Übersicht der 5 sportlichen CRS-Entwürfe (Runde 3)
+- `overview-crs.png` – Übersicht der 5 CRS-Entwürfe (Runde 2)
 - `overview.png` – Übersicht der 6 Platzhalter-Entwürfe
 
 ## Nächste Schritte
